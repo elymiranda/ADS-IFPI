@@ -11,18 +11,18 @@ Contatos:
 Habilidades:
 	Minhas hailidades ainda não são muitas. Mais conheço de PHP, JAVA, LARAVEL, SQL, PYTHON e DJANGO.
 
-Interesses academicos:
-	Me formar. Mesmo fazendo pouco mais procurando fazer o melhor.
+Interesses acadêmicos:
+	Me formar. Mesmo fazendo pouco mais procurando fazer o melhor em tudo.
 
 Portifólio:
 	Sistema de aluguel feito em Python - https://github.com/Isaias301/bike386.git
-	Sistema de clinica feito em PHP https://github.com/Isaias301/clinica.git
+	Sistema de clínica feito em PHP https://github.com/Isaias301/clinica.git
 
 Expectativa quanto a disciplina:
 	Aprendender o lado cliente servidor mais a fundo. Entender o MVC mais profundo.
 
 Propostade palestras:
-	Inteligencia artificial usando Python.
+	Inteligência artificial usando Python.
 	API feito em PHP
 	API feito em Python
 	API feito em JAVA
