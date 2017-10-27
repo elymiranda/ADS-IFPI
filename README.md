@@ -29,4 +29,6 @@ Propostade palestras:
 
 Links:
 	Linguagens para IA - http://iaexpert.com.br/index.php/2017/04/05/3-linguagens-para-inteligencia-artificial/
+	IA-BR - https://t.me/iaBrasil
+	PHP/PI - https://t.me/joinchat/Evq6S0O42wlnuJDVvbr1bg
 	
