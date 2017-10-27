@@ -8,8 +8,40 @@ Contatos:
 	GitHub - isaias301
 	E-mail - isaiassantana301@gmail.com
 
-Habilidades:
-	Minhas hailidades ainda não são muitas. Mais conheço de PHP, JAVA, LARAVEL, SQL, PYTHON, DJANGO, DOCKER, SERVIDOR APACHE, SAMBA, NTFS, PROXY, SCHID e RB.
+$Habilidades = array
+	(
+	'nome1' => 'C', 	
+	'nome2' => 'PHP', 
+	'nome3' => 'JAVA', 
+	'nome4' => 'LARAVEL', 
+	'nome5' => 'SQL', 
+	'nome6' => 'PYTHON', 
+	'nome7' => 'DJANGO', 
+	'nome8' => 'DOCKER', 
+	'nome9' => 'SERVIDOR', 
+	'nome10' => 'APACHE', 
+	'nome11' => 'SAMBA', 
+	'nome12' => 'NTFS', 
+	'nome13' => 'PROXY', 
+	'nome14' => 'SCHID', 
+	'nome15' => 'RB', 
+	'nome16' => 'CAEAMENTO_ESTRUTURADO', 
+	'nome17' => 'C++', 
+	'nome18' => 'C#', 
+	'nome19' => 'HTML', 
+	'nome20' => 'CSS', 
+	'nome21' => 'JAVASCRIP', 
+	'nome22' => 'JQUERY', 
+	'nome23' => 'FIBRA OTICA', 
+	'nome24' => 'PROVEDOR', 
+	'nome25' => 'LINUX', 
+	'nome26' => 'WINDOWS_SERVER_R2', 
+	'nome27' => 'ADM_REDES_WINDOWS'
+	'nome28' => 'LINUX', 
+	'nome29' => 'MONTAGEM_E_MANUTENÇÃO_DE_COMPUTADORES', 
+	'nome30' => 'APPLE_TV',
+	'nome31' => 'ZABBIZ'
+	);
 
 Interesses acadêmicos:
 	Me formar. Mesmo fazendo pouco mais procurando fazer o melhor em tudo.
