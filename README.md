@@ -9,7 +9,7 @@ Contatos:
 	E-mail - isaiassantana301@gmail.com
 
 Habilidades:
-	Minhas hailidades ainda não são muitas. Mais conheço de PHP, JAVA, LARAVEL, SQL, PYTHON e DJANGO.
+	Minhas hailidades ainda não são muitas. Mais conheço de PHP, JAVA, LARAVEL, SQL, PYTHON, DJANGO, DOCKER, SERVIDOR APACHE, SAMBA, NTFS, PROXY, SCHID e RB.
 
 Interesses acadêmicos:
 	Me formar. Mesmo fazendo pouco mais procurando fazer o melhor em tudo.
